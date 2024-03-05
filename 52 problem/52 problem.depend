@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1638252721 source:d:\52 problem\52 problem\main.cpp
+	<stdio.h>
+
+1638254146 source:d:\52 problem\52 problem\p2.c
+	<stdio.h>
+	<string.h>
+
+1638254798 source:d:\52 problem\52 problem\p22.c
+	<stdio.h>
+	<string.h>
+
